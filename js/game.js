@@ -1,7 +1,6 @@
 /**
  * Created by edmar.junior on 07/10/2014.
  */
-
 (function() {
     var lastTime = 0;
     var vendors = ['ms', 'moz', 'webkit', 'o'];
@@ -25,10 +24,6 @@
             clearTimeout(id);
         };
 }());
-
-
-
-
 
 var game = {
 
